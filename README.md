@@ -46,7 +46,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/khanya-kupelo/github-readme-stats"><img alt="Khanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanya-kupelo&show_icons=true&count_private=true&theme=neon-dark&hide_border=true&bg_color=0D1117" width = "90%" /></a>
+    <a href="https://github.com/khanya-kupelo/github-readme-stats"><img alt="Khanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanya-kupelo&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
 <br/>
 <br/>
