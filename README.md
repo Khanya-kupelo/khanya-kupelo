@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **dev@kupelo.co.za**
 
-- ⚡ About Me :
-  - **I enjoy learning and working with others. ✨**
-  - **I love jogging and listening to music**
-  - **Currently reading Atomic Habits by James Clear**
-  - **I am huge Bruce Lee Fan 🐉**
+- ⚡ **About Me **:
+  - I enjoy learning and working with others. ✨
+  - I love jogging and listening to music
+  - Currently reading Atomic Habits by James Clear
+  - I am huge Bruce Lee Fan 🐉
 
 ## 🚀 Languages and Tools
 
