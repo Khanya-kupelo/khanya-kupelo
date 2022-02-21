@@ -39,14 +39,14 @@
 <br/>
 
    <a href="https://github.com/khanya-kupelo/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khanya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khanya-kupelo&theme=neon-dark&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D" width = "90%" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khanya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khanya-kupelo&theme=elegant&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D" width = "90%" />
     </a>
 
 ## 📊 My Github Stats 🏆
 
   <br/>
   <p align="center">
-    <a href="https://github.com/khanya-kupelo/github-readme-stats"><img alt="Khanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanya-kupelo&show_icons=true&count_private=true&theme=monokai&hide_border=true&bg_color=0D1117" width = "90%" /></a>
+    <a href="https://github.com/khanya-kupelo/github-readme-stats"><img alt="Khanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanya-kupelo&show_icons=true&count_private=true&theme=elegant&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
 <br/>
 <br/>
