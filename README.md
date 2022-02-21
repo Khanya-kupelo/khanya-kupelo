@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dev@kupelo.co.za**
 
-- ⚡ **More...** :
+- ⚡ **More** :
   - I enjoy learning and working with others. ✨
   - I love jogging and listening to music
   - Currently reading Atomic Habits by James Clear
