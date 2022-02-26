@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Howzit? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Khanya here</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from South Africa 🇿🇦</h3>
+<h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am Khanya.</h1>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -13,11 +13,22 @@
 
 - 📫 How to reach me **dev@kupelo.co.za**
 
+
+
+<br/>
+<br/>
+<br/>
+
+
+
 - ⚡ **More** :
   - I enjoy learning and working with others. ✨
   - I love jogging and listening to music
   - Currently reading Atomic Habits by James Clear
   - I am huge Bruce Lee Fan 🐉
+
+
+
 
 ## 🚀 Languages and Tools
 
