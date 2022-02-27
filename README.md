@@ -21,11 +21,10 @@
 
 
 
-- ⚡ **More** :
+- **More** :
   - I enjoy learning and working with others. ✨
   - I love jogging and listening to music
-  - Currently reading Atomic Habits by James Clear
-  - I am huge Bruce Lee Fan 🐉
+  - Currently reading **Software Engineering principles and Practices** by Hans Van Vliet
 
 
 
