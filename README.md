@@ -9,7 +9,7 @@
 
 - I’m currently learning **Node JS and Swagger APIs.**
 
-- 👯I’m looking to collaborate on **OpenSource Projects**
+- I’m looking to collaborate on **OpenSource Projects**
 
 -  How to reach me **dev@kupelo.co.za**
 
