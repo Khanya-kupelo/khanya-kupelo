@@ -7,7 +7,7 @@
 
 -  I’m currently working on my **Personal Website Portfolio.**
 
-- 🌱 I’m currently learning **Node JS and Swagger APIs.**
+- I’m currently learning **Node JS and Swagger APIs.**
 
 - 👯I’m looking to collaborate on **OpenSource Projects**
 
