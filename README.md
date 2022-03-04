@@ -11,7 +11,7 @@
 
 - 👯I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **dev@kupelo.co.za**
+-  How to reach me **dev@kupelo.co.za**
 
 
 
