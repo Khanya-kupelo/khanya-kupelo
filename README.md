@@ -22,7 +22,7 @@
 - **More** :
   - I enjoy learning and working with others. ✨
   - I love jogging and listening to music
-  - Currently reading **Software Engineering principles and Practices** by Hans Van Vliet
+  - Currently reading **ACCELERATE** by Nicole Forsgren et al.
 
 
 
