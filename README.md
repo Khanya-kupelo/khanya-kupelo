@@ -7,9 +7,9 @@
 
 -  I’m currently building my **Personal Portfolio.**
 
-- I’m currently learning **Node JS and Swagger APIs.**
+- I’m currently learning **Node JS & Swagger.**
 
-- I’m looking to collaborate on **OpenSource Projects**
+- I’m looking to collaborate on **Open-source Projects**
 
 -  How to reach me **dev@kupelo.co.za**
 
