@@ -24,7 +24,7 @@
   - I love jogging and listening to music
   - Currently reading **ACCELERATE** by Nicole Forsgren et al.
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanya-kupelo)](https://git.io/streak-stats)
 
 Languages and Tools
 
@@ -40,6 +40,7 @@ Languages and Tools
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+
 
 <br/>
 
