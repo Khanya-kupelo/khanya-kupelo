@@ -18,12 +18,6 @@
 <br/>
 <br/>
 
-
-- **More** :
-  - I enjoy learning and working with others. ✨
-  - I love jogging and listening to music
-  - Currently reading **ACCELERATE** by Nicole Forsgren et al.
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanya-kupelo)](https://git.io/streak-stats)
 
 ## Languages and Tools
