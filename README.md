@@ -26,7 +26,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanya-kupelo)](https://git.io/streak-stats)
 
-Languages and Tools
+## Languages and Tools
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -40,6 +40,9 @@ Languages and Tools
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanya-kupelo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
