@@ -5,7 +5,7 @@
 
 ## About Me
 
--  I’m currently building my **Personal Portfolio.**
+-  I’m currently building an **E-commerce website.**
 
 - I’m currently learning **Node JS & Swagger.**
 
