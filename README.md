@@ -1,6 +1,6 @@
 
 
-<h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am Khanya.</h1>
+
 <h3 align="center">I am an innovative Full Stack Developer</h3>
 
 ## About Me
