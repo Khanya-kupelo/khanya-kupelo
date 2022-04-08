@@ -1,24 +1,5 @@
 
 
-
-<h3 align="center">I am an innovative Full Stack Developer</h3>
-
-## About Me
-
--  I’m currently building an **E-commerce website.**
-
-- I’m currently learning **Node JS & Swagger.**
-
-- I’m looking to collaborate on **Open-source Projects**
-
--  How to reach me **dev@kupelo.co.za**
-
-
-
-<br/>
-<br/>
-
-
 ## Languages and Tools
 
 <p align="left">
