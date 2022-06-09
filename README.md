@@ -15,9 +15,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p> -->
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanya-kupelo)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanya-kupelo)](https://github.com/khanya-kupelo/github-readme-stats)
+
+Building [Portfolio ](https://www.khanyakupelo.co.za/)
 
 <br/>
 
