@@ -1,49 +1,33 @@
-# Abstractions Limited's Code Canvas 🎨
+# **Abstractions Limited**
 
-## 👨‍💻 About Me
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana)
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
+[![UrbanCode](https://img.shields.io/badge/Urban_Code-2887FF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/uk-en/products/urbancode)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![UML Sequence Diagrams](https://img.shields.io/badge/UML_Sequence_Diagrams-5C2D91?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml-diagrams.org/sequence-diagrams.html)
+[![CMS](https://img.shields.io/badge/CMS-FF7E5F?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
+[![Sinon](https://img.shields.io/badge/Sinon-9E4F88?style=for-the-badge&logo=sinon&logoColor=white)](https://sinonjs.org/)
 
-Hey fellow wanderers of the digital realm! I'm a code artisan, sculpting applications and crafting experiences in the vast landscape of the web.
+## ** About me**
 
-## 🚀 Tech Palette
+Pragmatic Engineer| Fast Adopter | Fast Adapter
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%E2%9C%A8%20NoSQL%20Wizard-green?logo=mongodb&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-%E2%9C%A8%20Expressive-blue?logo=express&style=for-the-badge)
-![React](https://img.shields.io/badge/React-%E2%9C%A8%20Reactful-blue?logo=react&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%A8%20Node%20Ninja-green?logo=node.js&style=for-the-badge)
+### **Passion Projects**
 
-## 🚀 Projects in Orbit
+**Open Source Contributions**
 
-### [Galactic App](Link to Galactic App)
-
-- **Description:** A celestial app that lets you explore the universe.
-- **Tech:** ![MongoDB](https://img.shields.io/badge/MongoDB-Galactic%20Database-green?logo=mongodb&style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-Space%20Routes-blue?logo=express&style=flat-square) ![React](https://img.shields.io/badge/React-Cosmic%20UI-blue?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Galactic%20Server-green?logo=node.js&style=flat-square)
-- **Contributions:** Added warp-speed navigation, fixed black hole bugs.
-
-### [Nebula Dashboard](Link to Nebula Dashboard)
-
-- **Description:** Dashboard for tracking nebula formations in real-time.
-- **Tech:** ![MongoDB](https://img.shields.io/badge/MongoDB-Nebula%20Database-green?logo=mongodb&style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-Stellar%20API-blue?logo=express&style=flat-square) ![React](https://img.shields.io/badge/React-Nebula%20Visualizer-blue?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Stellar%20Server-green?logo=node.js&style=flat-square)
-- **Contributions:** Designed interstellar charts, fixed gravity bugs.
-
-## 🌌 Open Source Adventures
-
-### [Cosmic Explorer](Link to Cosmic Explorer)
-
-- **Description:** An open-source initiative to map the cosmos of code.
-- **Tech:** ![MongoDB](https://img.shields.io/badge/MongoDB-Cosmic%20Database-green?logo=mongodb&style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-Cosmic%20API-blue?logo=express&style=flat-square) ![React](https://img.shields.io/badge/React-Cosmic%20UI-blue?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Cosmic%20Server-green?logo=node.js&style=flat-square)
-- **Details:** Explored new galaxies of code, fixed supernova bugs.
-
-### [Stellar CLI](Link to Stellar CLI)
-
-- **Description:** Command-line tool for interstellar developers.
-- **Tech:** ![MongoDB](https://img.shields.io/badge/MongoDB-Stellar%20Database-green?logo=mongodb&style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-Stellar%20API-blue?logo=express&style=flat-square) ![React](https://img.shields.io/badge/React-Stellar%20CLI-blue?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Stellar%20Server-green?logo=node.js&style=flat-square)
-- **Details:** Navigated the command galaxy, fixed warp drive bugs.
-
-## 🚀 GitHub Launchpad Stats
-
-![Abstractions Limited's GitHub Launchpad Stats](https://github-readme-stats.vercel.app/api?username=abstractions-limited&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=radical)
-
-## 🎨 Let's Create Constellations
-
-- [GitHub Galaxy](Link to GitHub)
-- [Twitter Constellations](Link to Twitter)
+- **Project XYZ**: Lead contributor, enhancing functionality and performance through innovative features and optimizations.
+- **Project ABC**: Core maintainer, driving project roadmap and community engagement to new heights.
