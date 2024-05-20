@@ -20,6 +20,7 @@
 [![CMS](https://img.shields.io/badge/CMS-FF7E5F?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
 [![Sinon](https://img.shields.io/badge/Sinon-9E4F88?style=for-the-badge&logo=sinon&logoColor=white)](https://sinonjs.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
 ## ** About me**
 
