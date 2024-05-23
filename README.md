@@ -48,5 +48,5 @@ Pragmatic Engineer| Fast Adopter | Fast Adapter
 
 **Open Source Contributions**
 
-- **Project XYZ**: Lead contributor, enhancing functionality and performance through innovative features and optimizations.
-- **Project ABC**: Core maintainer, driving project roadmap and community engagement to new heights.
+- Purcee Industrial: [Lead contributor, enhancing functionality and performance through innovative features and optimizations](https://purceeindustrial.africa/).
+- **Club National**: Core maintainer, driving project roadmap and community engagement to new heights.
