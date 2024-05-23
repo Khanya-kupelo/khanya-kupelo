@@ -46,7 +46,7 @@ Pragmatic Engineer| Fast Adopter | Fast Adapter
 
 ### **Passion Projects**
 
-**Open Source Contributions**
+**Client Facing**
 
 - Purcee Industrial: [Lead contributor, enhancing functionality and performance through innovative features and optimizations](https://purceeindustrial.africa/).
 - **Club National**: Core maintainer, driving project roadmap and community engagement to new heights.
