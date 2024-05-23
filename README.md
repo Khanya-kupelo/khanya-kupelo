@@ -39,6 +39,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![UML Sequence Diagrams](https://img.shields.io/badge/UML_Sequence_Diagrams-5C2D91?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml-diagrams.org/sequence-diagrams.html)
 [![CMS](https://img.shields.io/badge/CMS-FF7E5F?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 
 ##  About me
 
