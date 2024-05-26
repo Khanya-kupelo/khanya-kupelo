@@ -50,4 +50,4 @@ Pragmatic Engineer| Fast Adopter | Fast Adapter
 **Client Facing**
 
 - Purcee Industrial: [Lead contributor, enhancing functionality and performance through innovative features and optimizations](https://purceeindustrial.africa/).
-- **Club National**: Core maintainer, driving project roadmap and community engagement to new heights.
+- Like Rick Rubin: [Like Rick Rubin: Daily challenges, solutions, and insights from my Engineering daybook curated for public consumption](https://abstractionslimited.github.io/Like-Rick-Rubin/)
